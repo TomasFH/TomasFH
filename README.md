@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**TomasFH/TomasFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Tomás Francisco Holgado 😃
+| Full Stack Web Developer | JavaScript, React JS | Node JS |
 
-Here are some ideas to get you started:
+## 🧐 About
+I'm 23 years old. I'm from Buenos Aires, Argentina. I am a Full Stack Web Developer with more experience in Frontend but available to work in Backend too!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+I have knowledge in
+- Front-end development using **HTML, CSS, React**
+- Backend development using **Node JS, Express**
+- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **PostgresSQL, Sequelize**
+
+## Proyects
+
+- Marketplace (https://e-commerce-labs.vercel.app/)
+A marketplace where a guest can see all te products, search for any of them by name, filter by price, order alphabetically or by price and add to cart.
+If the guest wants to buy, it has to registrate and log in with an account to become an User who is available to buy, sell, ask to seller (chat) and much more...
+**(This proyect was made not only by my but with other 4 great mates)**
+
+- Videogames App (https://pi-videogames-sandy.vercel.app/)
+A Videogames App that uses an external API to find some videogames. You can see any videogame's details, search them by it name, filter by genre, sort by punctuation or alphabetically and add your own videogames.
+
+## 📫 Contact Me
+- LinkedIn - (https://www.linkedin.com/in/tomasfh98/)
+- My WP - (https://www.wa.link/v1gbj8) (+541133030248)
