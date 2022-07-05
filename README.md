@@ -11,7 +11,7 @@ I have knowledge in
 - Front-end development using **HTML, CSS, React**
 - Backend development using **Node JS, Express, PostgresSQL, Sequelize**
 
-## Proyects
+## 👨‍💻 Proyects
 
 - Marketplace (https://e-commerce-labs.vercel.app/)
 
