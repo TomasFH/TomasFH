@@ -15,7 +15,7 @@ I have knowledge in
 
 - Marketplace (https://e-commerce-labs.vercel.app/)
 
-A marketplace where a guest can see all te products, search for any of them by name, filter by price, order alphabetically or by price and add to cart.
+A marketplace where a guest can see all the products, search for any of them by name, filter by price, order alphabetically or by price and add to cart.
 If the guest wants to buy, it has to registrate and log in with an account to become an User who is available to buy, sell, ask to seller (chat) and much more...
 **(This project was done with other 4 great mates)**
 
