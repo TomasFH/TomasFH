@@ -4,7 +4,7 @@
 | Full Stack Web Developer | JavaScript, React JS | Node JS |
 
 ## 🧐 About
-I'm 23 years old. I'm from Buenos Aires, Argentina. I am a Full Stack Web Developer with more experience in Frontend but available to work in Backend too!
+I'm 24 years old. I'm from Buenos Aires, Argentina. I am a Full Stack Web Developer with more experience in Frontend but available to work in Backend too!
 
 ## ⚡ Technologies
 I have knowledge in
