@@ -8,7 +8,7 @@ I'm 24 years old. I'm from Buenos Aires, Argentina. I am a Full Stack Web Develo
 
 ## ⚡ Technologies
 I have knowledge in
-- Front-end development using **HTML, CSS, React**
+- Front-end development using **HTML, CSS, React, NextJs**
 - Backend development using **Node JS, Express, PostgresSQL, Sequelize**
 
 ## 👨‍💻 Proyects
